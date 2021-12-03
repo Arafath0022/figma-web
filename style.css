@@ -1,0 +1,50 @@
+.logo{
+    width: 150px;
+}
+
+.navbar{
+    border-radius: 5px;
+}
+
+.topnav {
+    background-color: #e3f2fd;
+    overflow: hidden;
+    margin-top: 20px;
+  }
+
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .schedule{
+      color:#21B573;
+      ;
+  }
+
+  .row{
+      margin-top: 150px;
+  }
+
+.illus{
+    position: absolute;
+    width: 554px;
+    height: 346x;
+    left: 691px;
+    top: 157px;
+
+}
