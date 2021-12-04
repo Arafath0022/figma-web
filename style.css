@@ -46,5 +46,97 @@
     height: 346x;
     left: 691px;
     top: 157px;
+    margin-left: 150px;
 
+}
+
+.cat4{
+  width: 100px;
+  height: 100px;
+  left: 135px;
+  top: 618px;
+}
+
+.h31{
+  margin-top: 20px;
+  color: #413960;
+}
+
+.habib{
+  color:  #FD511A;
+
+}
+
+.btn{
+  border-radius: 40px;
+  background-color: #21B573;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.col-md-3{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+.online{
+  margin-top: 70px;
+  margin-bottom: 70px;
+  color: #413960;
+}
+
+.card-title{
+  color: #413960;
+}
+
+.mono{
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.col-md-6{
+  margin-top: 20px;
+}
+
+.card-img-top{
+  margin-left: 5px;
+}
+
+.fat{
+  margin-left: 90px;
+}
+
+.kaka{
+  margin-top: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.kaka1{
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: -100px;
+}
+
+.man{
+  width: 130px;
+  height: 130px;
+  margin-left: 100px;
+}
+
+.kaka3{
+  margin-left: -200px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+footer{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 100px;
+  margin-left: 600px;
+}
+
+.kaka420{
+  margin-left: 100px;
 }
